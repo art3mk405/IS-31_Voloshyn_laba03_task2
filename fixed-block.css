@@ -1,0 +1,56 @@
+
+.main{
+    width:1500px;    
+}
+
+.textElement{      
+    text-align: center;
+    padding: 20px;        
+}
+
+.firstTextElement {
+    text-align: center;
+    padding: 20px;
+    margin-left: 1200px;
+}
+.firstEl{
+    width: 1500px;
+    height: 150px;    
+    background-color: yellow;
+    border: 3px solid black;
+}
+.inner1{
+    width: 400px;
+    height: 80px;
+    background-color: white;
+    margin: 35px;
+    border: 3px solid black;
+}
+.secondEl{
+    width: 350px;
+    height: 1200px;
+    background-color: blue;
+    float: left;
+    border: 3px solid black;
+}
+.thirdEl{
+    margin: 0 20px;
+    width: 350px;
+    height: 1200px;
+    float: left;
+    background-color: red;
+    border: 3px solid black;
+}
+.fourthEl{
+    background-color: white;
+    margin-left: 0;
+    border: 3px solid black;
+}
+
+.fifthEl{
+    margin: 0;    
+    float: right;
+}
+.sixthEl{
+    display: inline-block;
+}
